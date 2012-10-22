@@ -8,7 +8,7 @@ import play.data.validation.*;
 
 @Entity
 public class Comment extends Model {
-	
+	//a comment
 	@Required
 	public String author;
 	
